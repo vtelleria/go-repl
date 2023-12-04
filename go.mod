@@ -1,4 +1,4 @@
-module github.com/openengineer/go-repl
+module github.com/vtelleria/go-repl
 
 go 1.15
 
